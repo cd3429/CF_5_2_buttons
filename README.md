@@ -1,6 +1,1 @@
-![1](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/dd605f43-4914-4320-9f93-c4a161421d8c)
-![2](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/a8bcfdc8-5c8a-49fd-9548-b1c29ffa8c72)
-![3](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/715fa886-748f-46b0-9d1c-9c35df1daf77)
-![4](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/c2640fa0-d1db-4033-af99-073f2b3b8b01)
-![5](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/c4934156-1065-4304-b442-a5d6ea113ddd)
-![6](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/1419c17b-132c-40e6-af64-ede1e9f1bb26)
+![tile](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/23ad9a4f-7895-4417-82c6-a05c6bb10157)
