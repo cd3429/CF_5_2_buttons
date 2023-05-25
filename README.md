@@ -1,16 +1,6 @@
-# new_buttons
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/dd605f43-4914-4320-9f93-c4a161421d8c)
+![2](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/a8bcfdc8-5c8a-49fd-9548-b1c29ffa8c72)
+![3](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/715fa886-748f-46b0-9d1c-9c35df1daf77)
+![4](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/c2640fa0-d1db-4033-af99-073f2b3b8b01)
+![5](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/c4934156-1065-4304-b442-a5d6ea113ddd)
+![6](https://github.com/cd3429/CF_5_2_buttons/assets/125622988/1419c17b-132c-40e6-af64-ede1e9f1bb26)
